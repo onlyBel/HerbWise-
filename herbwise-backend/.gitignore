@@ -1,0 +1,2 @@
+sys.stderr.write(f"ERROR: {exc}")
+trailing whitespaces in all lines
