@@ -33,4 +33,4 @@ Gardenate: An app that provides planting reminders and growing tips for gardener
 Epicurious: A cooking app that includes recipes and ingredients, including herbs.
 
 LICENSE
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT LICENSE . See the LICENSE file for details.
