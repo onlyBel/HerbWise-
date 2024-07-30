@@ -24,7 +24,7 @@ Start the backend server:
 python backend/app.py
 Start the frontend development server:
 npm start
-Open your browser and navigate to http://localhost:3000 to see HerbWise in action.
+Open your browser and navigate to http://localhost:5500 to see HerbWise in action.
 
 
 Related Products
